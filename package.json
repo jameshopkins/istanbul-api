@@ -37,7 +37,7 @@
     "fileset": "0.2.x",
     "istanbul-lib-coverage": "^1.0.0-alpha",
     "istanbul-lib-hook": "^1.0.0-alpha",
-    "istanbul-lib-instrument": "^1.0.0-alpha",
+    "istanbul-lib-instrument": "git://github.com/jameshopkins/istanbul-lib-instrument.git#estraverse-visitorkey-sync",
     "istanbul-lib-report": "^1.0.0-alpha",
     "istanbul-lib-source-maps": "^1.0.0-alpha",
     "istanbul-reports": "^1.0.0-alpha",
